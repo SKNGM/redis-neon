@@ -1,0 +1,14 @@
+{
+  "name": "redis-neon",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "pg": "^8.11.0",
+    "redis": "^4.6.0"
+  }
+}

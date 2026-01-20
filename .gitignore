@@ -1,0 +1,14 @@
+# Env
+.env
+.env.local
+.env.production
+
+# Node (si aplica)
+node_modules/
+
+# Python (si aplica)
+__pycache__/
+.venv/
+
+# Logs
+*.log
